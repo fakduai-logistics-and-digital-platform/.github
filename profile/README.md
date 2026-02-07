@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="120" src="https://github.com/user-attachments/assets/7e9e7dcf-d006-44f6-a121-cef33b369c8b" alt="Fakduai Logo" />
+  <img width="120" src="https://avatars.githubusercontent.com/u/230418785?s=200&v=4" alt="Fakduai Logo" />
   
   # Fakduai Logistics & Digital Platform
   
