@@ -16,12 +16,12 @@ Fakduai delivers full-cycle digital solutions that move the world.**
 
 | Category | Technology |
 |-----------|-------------|
-| Frontend | Vue, Vuetify, Tailwind CSS |
-| Backend | Golang, Echo |
+| Frontend | Vue, Vuetify, React, Tailwind CSS |
+| Backend | Golang, Echo, Python, FastAPI |
 | Database | PostgreSQL, Redis, MongoDb |
-| Cloud | AWS (ECS, S3, Lambda), GCS |
+| Cloud | AWS (ECS, S3, Lambda), GCS, Cloudflare |
 | DevOps | Docker, CI/CD (Jenkins) |
-| Mobile | Flutter |
+| Mobile | Flutter, Kotlin, Swift |
 
 ---
 
